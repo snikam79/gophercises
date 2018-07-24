@@ -1,4 +1,5 @@
-This is my version of https://gophercises.com/exercises/task.
+## This is my version of https://gophercises.com/exercises/task.
+
 
 For all CLI related operations I'm using COBRA library and for DB using bolt db.
 
@@ -11,3 +12,4 @@ file I/O provided by golang. Creating CLI functionality on our own is relatively
 also easy but it gets difficult updating existing records using fseek like functions. So later I abandoned that approach and switched back 
 
 to COBRA and bolt. 
+
